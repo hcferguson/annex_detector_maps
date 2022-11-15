@@ -1,0 +1,1 @@
+f4688242-84d6-40d5-8e88-d88a2ef03e9e encryption=none externaltype=rclone name=CEERS_google_drive prefix=annex_detector_maps rclone_layout=lower target=CEERS_google_drive type=external timestamp=1668547838.916949s
